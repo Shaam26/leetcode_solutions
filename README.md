@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shaam26/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shaam26/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shaam26/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Shaam26/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shaam26/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
